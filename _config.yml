@@ -117,7 +117,7 @@ author:
   avatar           : "/assets/images/logo.svg"
   bio              : "We are a group of friends that make a magazine! It is all-ages and fun-filled. Here is where we will post our articles"
   location         : "Alabama, USA"
-  email            : "mail@wackyfunmagazine.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -125,12 +125,12 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://wackyfunmagazine.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/land-o1234"
-    - label: "Redbubble"
+    - label: "Shop"
       icon: "fa-solid fa-bag-shopping"
       url: "https://wackyfunshop.redbubble.com/"
+    - label: "Ko-fi"
+      icon: "fa-solid fa-circle-dollar-to-slot"
+      url: "https://ko-fi.com/wackyfunmagazine"
       
 
 # Site Footer
@@ -144,7 +144,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/land-o1234/articles.wackyfunmagazine.com"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
