@@ -7,7 +7,6 @@ tags:
   - code
   - syntax highlighting
 ---
-
 ### Origins
 
 Halloween was first celebrated 2,000 years ago. 
