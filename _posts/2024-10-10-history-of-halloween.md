@@ -13,17 +13,19 @@ Halloween was first celebrated 2,000 years ago.
 
 Back then people celebrated Samhain which was a Pagan festival that marked the end of summer and the harvest. 
 
-They had bonfires that symbolized the sun and to cleanse the people and bring the god’s blessings. The Celts also believed that the bonfires would guide souls to the afterlife. 
+They had bonfires that symbolized the sun and to cleanse the people and bring the god’s blessings. The Celts also believed that the bonfires would guide souls to the afterlife.
+
+![Bonfire](/assets/images/history-of-halloween-bonfire.jpg "Bonfire")
 
 People also danced at Samhain festivals. 
 
-The Celts also wore costumes that looked like monsters and animals to avoid being taken by fairies and to confuse spirits.  
+The Celts wore costumes that looked like monsters and animals to avoid being taken by fairies and to confuse spirits.  
 
-There were also sacrifices of animals and crops to the Celtic deities. 
+There were sacrifices of animals and crops to the Celtic deities. 
 
-People also made lanterns out of hallowed pumpkins. 
+People made lanterns out of hallowed pumpkins. 
 
-This is just many of the things they did at these festivals. 
+These are just many of the things they did at these festivals. 
 
 ### Present Traditions
 
