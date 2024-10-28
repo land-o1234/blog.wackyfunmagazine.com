@@ -1,11 +1,11 @@
 ---
 title: "The History of Halloween"
-excerpt: "Post displaying the various ways of highlighting code in Markdown."
+excerpt: "Read about the surprising origins of Halloween and how it's changed drastically over the years."
 header:
-  teaser: "markup-syntax-highlighting-teaser.jpg"
+  teaser: "/assets/images/history-of-halloween-teaser.png"
 tags: 
-  - code
-  - syntax highlighting
+  - history
+  - halloween
 ---
 ### Origins
 
@@ -39,4 +39,6 @@ October 31st is also Reformation Day.
 
 Reformation Day is the day Martin Luther nailed the ninety-five theses to the door of a Catholic Church. 
 
-These theses were points that Martin Luther made about how he thought the church had gone wrong. 
+These theses were points that Martin Luther made about how he thought the church had gone wrong.
+
+![Martin Luther](/assets/images/history-of-halloween-luther.jpg "Martin Luther")
