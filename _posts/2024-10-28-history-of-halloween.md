@@ -7,6 +7,8 @@ tags:
   - history
   - halloween
 ---
+By: Belle Van Fleet
+
 ### Origins
 
 Halloween was first celebrated 2,000 years ago. 
