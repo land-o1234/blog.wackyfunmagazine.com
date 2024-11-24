@@ -10,3 +10,13 @@ $background-color: #177e80;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+blockquote {
+    border-left: 5px solid #ffed00; /* Highlight color for the indent line */
+    padding-left: 15px;             /* Padding between the text and the line */
+    margin-left: 0;                 /* Optional: Align the blockquote with the text */
+    color: #5ce1e6;                 /* Optional: Text color for the blockquote */
+    font-style: italic;             /* Optional: Italicize the text */
+    background-color: #177e80;      /* Optional: Background color to match your palette */
+  }
+  
