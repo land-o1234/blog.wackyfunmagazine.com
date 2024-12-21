@@ -19,4 +19,31 @@ blockquote {
     font-style: italic;             /* Optional: Italicize the text */
     background-color: #177e80;      /* Optional: Background color to match your palette */
   }
-  
+
+/* Style for the article title */
+h1 {
+  font-size: 2.5em;
+  font-weight: bold;
+  color: #ffed00; /* Bright yellow for the title */
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+/* Style for the ordered list */
+ol {
+  list-style-type: decimal;
+  padding-left: 40px;
+  color: #5ce1e6; /* Your palette color for the text */
+  font-size: 1.2em;
+}
+
+ol li {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+ol li::marker {
+  color: #ffed00; /* Yellow numbers */
+  font-size: 1.5em;
+}
