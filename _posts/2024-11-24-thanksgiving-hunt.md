@@ -6,6 +6,7 @@ header:
 tags: 
   - thanksgiving
   - hunting
+  - short story
 ---
 By: Joshua Brown
 

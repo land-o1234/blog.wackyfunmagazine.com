@@ -1,5 +1,5 @@
 ---
-title: "Top 10! Christmas Movies"
+title: "Top 10 Christmas Movies"
 excerpt: "Check out this hot take on the top 10 Christmas movies of all time"
 header:
   teaser: "/assets/images/christmas-movie-top10.png"
