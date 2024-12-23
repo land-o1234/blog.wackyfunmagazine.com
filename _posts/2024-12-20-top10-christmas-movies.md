@@ -17,7 +17,7 @@ tags:
 5. Christmas with the Kranks
 6. Rudolph the Red-Nosed Reindeer
 7. The Santa Clause
-8. Dr. Seuss’s How the Grinch Stole Christmas
+8. How the Grinch Stole Christmas
 9. The Star
 10. The Night They Saved Christmas
 
