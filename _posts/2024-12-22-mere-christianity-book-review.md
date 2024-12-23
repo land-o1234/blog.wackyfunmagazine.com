@@ -1,5 +1,6 @@
 ---
 title: "Mere Christianity Review"
+author: Joshua Brown
 excerpt: "A review of C.S. Lewis's classic 'Mere Christianity', a logical journey through the fundamentals of Christian faith, perfect for holiday reflection."
 header:
   teaser: "/assets/images/mere-christianity-book-review.png"
@@ -8,8 +9,6 @@ tags:
   - christmas
   - christianity
 --- 
-By: Joshua Brown
-
 <img src="https://m.media-amazon.com/images/I/71YshW3oBrL.jpg" alt="Mere Christianity by C.S. Lewis" class="align-right" width="300px">
 **Today, I shall review Mere Christianity by Clive Staples Lewis.**
 This is a holiday book since it talks about the religion started by God, and His Son, Who gave us the

@@ -1,5 +1,6 @@
 ---
 title: "Jacob’s Hunting Adventure"
+author: Joshua Brown
 excerpt: "Jacob liked to hunt. He often drove an ATV out into a secluded field, parked it, stalked into the woods, and waited for a large buck to appear so he could shoot it."
 header:
   teaser: "https://cdn.pixabay.com/photo/2018/11/18/21/44/sunset-3824075_1280.jpg"
@@ -8,8 +9,6 @@ tags:
   - hunting
   - short story
 ---
-By: Joshua Brown
-
 **Jacob liked to hunt.** He often drove an ATV out into a secluded field, parked it, stalked into the woods, and waited for a large buck to appear so he could shoot it. He affectionately cleaned his gun when he returned from a hunt—he had bought it after saving for a year, and it was his most prized possession. He loved the woods, the animals, hunting, fishing, cleaning a kill, and, most of all, eating a kill. His dad always helped him skin them, and then Jacob and his mom would cook them up for dinner.
 
 ---

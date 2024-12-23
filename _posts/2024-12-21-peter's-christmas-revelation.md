@@ -1,5 +1,6 @@
 ---
 title: "Peter's Christmas Revelation"
+author: Joshua Brown
 excerpt: "Peter finds the true meaning of Christmas from an unexpected friend"
 header:
   teaser: "/assets/images/peter-christmas-revelation.png"
