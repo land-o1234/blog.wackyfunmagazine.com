@@ -1,0 +1,9 @@
+Jonah Brown:
+  name: "Jonah Brown"
+  bio: "Hi, I’m Jonah and I write articles for Wacky Fun magazine. I always thought writing was boring when I was a little kid, but recently found a passion for it in writing these articles. I don’t have any published works and am not currently writing any other than articles. If you like them, please let me know and I might consider writing a book or story. Thanks!"
+  avatar: "/assets/images/authors/jonah-brown.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jonah.brown@wackyfunmagazine.com"
+
