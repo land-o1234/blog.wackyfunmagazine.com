@@ -5,7 +5,7 @@ The term "Fighting Irish" has a few possible origins according to the school's a
 
 [^1]: <a href="https://fightingirish.com/the-fighting-irish/#:~:text=University%20president,%20nickname%20in%201927." target=_blank>https://fightingirish.com/the-fighting-irish/</a>
 [^2]: <a href="https://www.dispatch.com/story/sports/college/football/2024/11/30/what-is-a-buckeye-ohio-state-football-nickname-origin-mascot/76663265007/#:~:text=Brutus%20Buckeye,%20years%20prior." target=_blank>https://www.dispatch.com/story/sports/college/football/2024/11/30/what-is-a-buckeye-ohio-state-football-nickname-origin-mascot/76663265007/</a>
-[^3]: <a href="https://fightingirish.com/the-fighting-irish/#:~:text=exactly%20where,%20perfectly%20explained." target=_blank>https://fightingirish.com/the-fighting-irish/</a>
+[^3]: <a href="https://fightingirish.com/the-fighting-irish/#:~:text=where%20and,%20perfectly%20explained." target=_blank>https://fightingirish.com/the-fighting-irish/</a>
 
 
 <!--stackedit_data:
