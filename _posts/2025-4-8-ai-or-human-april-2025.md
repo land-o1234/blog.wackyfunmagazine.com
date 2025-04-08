@@ -1,5 +1,5 @@
 ---
-title: "AI or Human April 2025"
+title: "April 2025 Challenge: Spot the AI!"
 author: Jonah Brown
 excerpt: "Figure out which of these sentaces were written by ChatGPT (or one of its friends 😉), and which were written by our human writer."
 tags: 
@@ -8,6 +8,8 @@ tags:
   - thunder
   - comet
 --- 
+**Human sentances edited by Caleb Hardin**
+
 In each pair of sentances, there is one written by AI and one written by our human writer, Jonah Brown.
 Your job is to find which one is which.
 <div style="background-color: #5ce1e6; padding: 20px; border-radius: 10px; margin: 20px 0;">
