@@ -19,12 +19,12 @@ locale                   : "en-US"
 rtl                      : # true, false (default) turns direction of the page into right to left for RTL languages
 title                    : "Wacky Fun Magazine"
 title_separator          : "|"
-subtitle                 : "Articles"
+subtitle                 : "Blog"
 name                     : "Wacky Fun Magazine"
 description              : "The official website for the all-ages, fun-filled magazine."
-url                      : "https://articles.wackyfunmagazine.com"
+url                      : "https://blog.wackyfunmagazine.com"
 baseurl                  : ""
-repository               : "land-o1234/articles.wackyfunmagazine.com"
+repository               : "land-o1234/blog.wackyfunmagazine.com"
 teaser                   : "/assets/images/default-post-teaser.png"
 logo                     : "/assets/images/logo-88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -141,7 +141,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/land-o1234/articles.wackyfunmagazine.com"
+      url: "https://github.com/land-o1234/blog.wackyfunmagazine.com"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
