@@ -17,4 +17,14 @@ Joshua Brown:
     - label: "My book, The Challenger"
       icon: "fas fa-fw fa-book"
       url: "https://www.amazon.com/Challenger-Joshua-Caleb-Brown/dp/B0D79PT7QF/ref=sr_1_1?crid=SCKBEGF7L0JO&dib=eyJ2IjoiMSJ9.7OonHDQJR1td-Qkh3g6DECwbGn7s_HK88PRaaEA8tjsaEH1rD7cV3GwcDlqZHvnvA33jbldphrKfHA6sHhzJypEqKOVgbst7_YHDb5XmqUk.aiQaVYqbQbrLWmULU7sgXlzEV5fct8vm6nimcWo6lcU&dib_tag=se&keywords=The+challenger+Joshua+brown&qid=1734832652&sprefix=the+challenger+joshua+brown%2Caps%2C336&sr=8-1"
-
+John V:
+  name: "John V"
+  bio: "Howdy! I’m John. I am the Editor-in-Chief, Publisher, and Designer of the Wacky Fun Magazine. I have been making the Wacky Fun Magazine since 2018, and I have enjoyed seeing it grow. I like writing about science topics in particular, but many topics interest me. I always love hearing from readers with your feedback, so shoot me an email below if you want!" 
+  avatar: "/assets/images/authors/john-van-fleet.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mail@wackyfunmagazine.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/land-o1234"
