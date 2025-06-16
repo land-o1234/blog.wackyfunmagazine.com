@@ -96,7 +96,7 @@ tags:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jakob narrowed his eyes. <span class="dialog">"She snores, so good luck getting any sleep. I promise I won't bite."</span> He seemed irritated that Adelle had implied he was dangerous. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The party stood there between the two doors while May considered the situation. She didn't sense any malice from the four strangers, but she was inherently distrustful of Shifters. She had been raised in a human-only community, so the only Shifters she saw were in animal form or sneaking onto her father's land at night. She didn't have a high opinion of them. They weren't even fully human. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id="part-2">The party stood there between the two doors while May considered the situation.</span> She didn't sense any malice from the four strangers, but she was inherently distrustful of Shifters. She had been raised in a human-only community, so the only Shifters she saw were in animal form or sneaking onto her father's land at night. She didn't have a high opinion of them. They weren't even fully human.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="dialog">"He can stay with you for the night,"</span> May sighed, putting a hand on her brother's shoulder. 
 
