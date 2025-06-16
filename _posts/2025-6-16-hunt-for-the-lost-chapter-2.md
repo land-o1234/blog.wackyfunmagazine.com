@@ -17,6 +17,16 @@ tags:
     font-style: italic;
     color: #ffed00;
   }
+  #part-2:target {
+    background-color: #ffff99;
+    padding: 5px;
+    border-radius: 3px;
+    animation: highlight 3s ease-out;
+  }
+  @keyframes highlight {
+    0% { background-color: #ffff99; }
+    100% { background-color: transparent; }
+  }
 </style>
 
 ---
